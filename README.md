@@ -34,7 +34,6 @@ def main():
    1) нумерованый список 2 ур-ня
       1) нумерованый список 3 ур-ня
       -  список 3 ур-ня
-
 - [ ] список задач / task list
   - [x] список задач / task list
 
@@ -42,7 +41,24 @@ http://www.youtube.com
 
 [youtube](http://www.youtube.com)
 
+![Logo](./attachments/pigeons.png)
 ![Logo](./attachments/pigeons.png, "Уру ру")
+
+[![video](./attachments/pigeons.png)](http://www.youtube.com)
+
+<h1><i>Friz (the Python Programmer)</i></h1>
+<div>asdasda</div>
+<img src="./attachments/pigeons.png">
+
+| LEFT           |  CENTER   |           RIGHT |
+|----------------|:---------:|----------------:|
+| по левому краю | по центру | по правому краю |
+| текст          |   текст   |           текст |
+
+
+
+
+
 
 
 
